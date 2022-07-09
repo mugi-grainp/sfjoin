@@ -12,7 +12,7 @@ UNIX join コマンドと似た機能を提供。データ結合のためのソ�
 # データ行のソート無しで2つのテキストファイルを指定したフィールドで結合する
 #
 # Usage
-#     ruby join.rb [options] FILE1 FILE2
+#     ruby sfjoin.rb [options] FILE1 FILE2
 # 引数
 #     FILE1            結合するファイル1
 #     FILE2            結合するファイル2
