@@ -93,6 +93,6 @@ File.open(filename_file1, 'r') do |file1|
     output.concat(file1_row_array)
     output.concat(file2_row_array)
 
-    puts output.join(',')
+    puts output.join(delimiter)
   end
 end
